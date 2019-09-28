@@ -1,1 +1,1 @@
-# django_tutorial
+Source code for the official Django tutorial
